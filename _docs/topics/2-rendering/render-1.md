@@ -11,8 +11,6 @@ There are a number of techniques used for rendering, the most commonly used are 
 
 Most game engine use an existing graphics library to store the contents of the game world (and provide fast graphics rendering), most commonly used are OpenGL, Vulkan and DirectX.  
 
-
-
 ### Other Sources
 * [Game Engine Development: Rendering](https://indiegamedev.net/2020/01/13/game-engine-development-for-the-hobby-developer-part-1-rendering/)
 * [How to develop a rendering engine](https://www.haroldserrano.com/blog/how-to-develop-a-rendering-engine-an-overview)

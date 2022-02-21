@@ -15,7 +15,7 @@
   - render-3
   - render-4  
   - render-5
-  - render-6
+  #- render-6
 - title: 3. Scene Graph
   docs:
 - title: 4. Collision Detection

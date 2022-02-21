@@ -10,7 +10,12 @@
   - intro-3
 - title: 2. Rendering Engine
   docs:
-  - render-1  
+  - render-1
+  - render-2
+  - render-3
+  - render-4  
+  - render-5
+  - render-6
 - title: 3. Scene Graph
   docs:
 - title: 4. Collision Detection

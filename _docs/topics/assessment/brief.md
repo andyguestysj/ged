@@ -8,7 +8,7 @@ The assessment for this module is detailed below and is available on Moodle [her
 If there are any discrepancies between this page and the link above please :-  
 
 * contact me and let me know
-* assume the link ttakes precedence
+* assume the link takes precedence
 
 ### Deadline
 
@@ -50,6 +50,8 @@ You can use any game engine that is freely available and can be run on the compu
 The following engines are acceptable :- Unreal, Unity, Godot, GameMaker Studio 2, Armory, CryEngine, Corona/Solar2D. If you are considering any other engine speak to the lecturer about it.  
 
 You will need to demonstrate the game to the lecturer, the demonstration should include a discussion of the game engine, how well it supported your game concept and any problems you faced.  
+
+[https://glamorous-save-06a.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c](https://glamorous-save-06a.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c)
 
 ### 3. Game Engine Essay
 

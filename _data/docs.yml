@@ -18,6 +18,11 @@
   #- render-6
 - title: 3. Scene Graph
   docs:
+  - sg-1
+  - sg-2
+  - sg-3
+  - sg-4
+  - sg-5
 - title: 4. Collision Detection
   docs:
 - title: 5. Scripting

@@ -3,6 +3,7 @@ title: Introduction
 permalink: /docs/sg-1/
 ---
 
+[Lecture Video](https://web.microsoftstream.com/video/10ba8df6-74b3-4571-ac9e-3ee3ee44ce52)  
 ### Scene Graph
 
 *From Wikipedia*  

@@ -19,4 +19,14 @@ From Wikipedia
 
 ### Links
 
+* https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection  
+* https://www.jeffreythompson.org/collision-detection/  
+* https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection  
+* https://happycoding.io/tutorials/processing/collision-detection  
+* http://cs.brown.edu/courses/gs007/lect/sim/web/murat.html  
+* https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection  
+* https://www.geeksforgeeks.org/collision-detection-in-pygame/  
+* https://www.gamedeveloper.com/programming/advanced-collision-detection-techniques  
+* https://gamedevelopertips.com/unity-collision-detection-2d/ 
+* https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/physicstutorials/4collisiondetection/Physics%20-%20Collision%20Detection.pdf
 * 

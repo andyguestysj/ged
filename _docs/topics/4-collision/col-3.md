@@ -65,7 +65,9 @@ The Separating Axis Theorem (SAT for short) essentially states if you are able t
 <img src="{{ "/assets/img/col/sep.jpg" | relative_url }}" alt="separating axis theorem" class="img-responsive">  
 
 [More information here](https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169)  
+#### 3D
 
+3D collision detection uses the same techniques but they are more computationally intensive due to the extra dimension.  
 #### Tunnelling Problem
 
 There is a big problem with *A Posteriori* collision detection. It is possible for one object to pass through another if its movement takes it completely past the object in a single update.  

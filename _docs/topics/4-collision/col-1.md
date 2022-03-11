@@ -19,8 +19,8 @@ From Wikipedia
 
 ### Links
 
-* https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection  
-* https://www.jeffreythompson.org/collision-detection/  
+* [https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)  
+* [https://www.jeffreythompson.org/collision-detection/](https://www.jeffreythompson.org/collision-detection/)  
 * https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection  
 * https://happycoding.io/tutorials/processing/collision-detection  
 * http://cs.brown.edu/courses/gs007/lect/sim/web/murat.html  

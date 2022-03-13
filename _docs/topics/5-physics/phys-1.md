@@ -52,6 +52,16 @@ The Euler Method is simple to implement but is the least exact. The [Runge-Kutta
 
 <img src="{{ "/assets/img/phys/phys3.jpeg" | relative_url }}" alt="Integration" class="img-responsive">   
 
+### Collision Response
+ 
+A collision response calculates the resulting velocities (linear and angular) of the objects after colliding and instantly changes their velocities accordingly. This calculation requires information such as mass, a coefficient of restitution, collision points, and collision-normal vector.  
+
+At the instant of collision, the most significant force acting on the objects is the collision force (Impact force), so all other forces are ignored for that instant. The impact force is high in magnitude but short in duration.  
+
+After a collision, the impact force dies out, and external forces act on the object once again. The equation of motion is solved, providing a new position and velocity. The physics engine performs this process continuously, and it creates the illusion that an object is falling due to gravity.  
+
+The purpose of a physics engine is to solve the equation of motion and detect collisions. The goal is simple to understand yet complicated to implement. 
+
 ### Links
 
 * [https://www.haroldserrano.com/blog/how-a-physics-engine-works-an-overview](https://www.haroldserrano.com/blog/how-a-physics-engine-works-an-overview)  

@@ -46,7 +46,6 @@ The module aims to:
 * *Game Physics Engine Development* Millington, Ian. CRC Press 2010
 * *Computational Beauty of Nature* Flake, Gary. MIT Press 1998
 * *Mathematics for 3D Game Programming and Computer Graphics* Lengyel, Eric. Charles River Media, 2003
-
-
+* [Harrold Serrano's Website](https://www.haroldserrano.com/articles#gameenginesection) 
 
 

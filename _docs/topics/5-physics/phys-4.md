@@ -45,7 +45,7 @@ After the update is complete, each particle is rendered, usually in the form of 
 </figure>
 
 <figure>
-<img src="{{ "/assets/img/phys/psartgalaxy.jpg" | relative_url }}" alt="Particle System Galaxy" class="img-responsive">   
+<img src="{{ "/assets/img/phys/partgalaxy.jpg" | relative_url }}" alt="Particle System Galaxy" class="img-responsive">   
 <figcaption> Particle System Galaxy. </figcaption>
 </figure>
 

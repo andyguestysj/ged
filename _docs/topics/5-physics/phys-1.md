@@ -67,3 +67,6 @@ The purpose of a physics engine is to solve the equation of motion and detect co
 * [https://www.haroldserrano.com/blog/how-a-physics-engine-works-an-overview](https://www.haroldserrano.com/blog/how-a-physics-engine-works-an-overview)  
 * [https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/previousinformation/physics1introductiontonewtoniandynamics/2017%20Tutorial%201%20-%20Introduction%20to%20Newtonian%20Dynamics.pdf](https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/previousinformation/physics1introductiontonewtoniandynamics/2017%20Tutorial%201%20-%20Introduction%20to%20Newtonian%20Dynamics.pdf)
 * [https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/previousinformation/](https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/previousinformation/)  
+* [https://perso.liris.cnrs.fr/nicolas.pronost/UUCourses/GamePhysics/lectures/lecture%209%20Physics%20Engine.pdf](https://perso.liris.cnrs.fr/nicolas.pronost/UUCourses/GamePhysics/lectures/lecture%209%20Physics%20Engine.pdf)
+* [http://buildnewgames.com/gamephysics/](http://buildnewgames.com/gamephysics/)
+* [https://cgi.csc.liv.ac.uk/~xiaowei/game.html](https://cgi.csc.liv.ac.uk/~xiaowei/game.html)

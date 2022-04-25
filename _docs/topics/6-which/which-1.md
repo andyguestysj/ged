@@ -3,14 +3,18 @@ title: Which Engine?
 permalink: /docs/which-1/
 ---
 
+<<<<<<< HEAD
 Adapted from numerous sources, see links below.  
 
+=======
+>>>>>>> e26cd4f1542a9b5b9e37bdb9b0dc9e9848ebd324
 [Lecture Video]
 
 ### Choosing An Engine
 
 ### Engine, Frameworks, Libraries, DIY?
 
+<<<<<<< HEAD
 Whereas a video game engine is a full-fledged piece of software, game libraries and frameworks are more or less just programming scripts. Thus, instead of building within a separate program, game libraries and frameworks allow you to build from most code editors. In this case, you just need to make sure to import, require, or install the library/framework per the instructions provided for it.  
 
 So why does this matter? Well, there are some pros and cons between the two.  
@@ -23,6 +27,8 @@ That being said, game libraries and frameworks have their own hiccups. As they a
 
 Likewise, most game libraries and frameworks just aren’t as powerful as a game made with an engine. Now, this doesn’t mean they can’t be a ton of fun, but don’t expect your AAA Elden Ring clone to be made with just a framework.   
 
+=======
+>>>>>>> e26cd4f1542a9b5b9e37bdb9b0dc9e9848ebd324
 ### Things To Consider
 
 * 2D or 3D or ? (inc VR/AR)
@@ -36,13 +42,18 @@ Likewise, most game libraries and frameworks just aren’t as powerful as a game
 * Assets - Does the engine have an asset store/hub?
 * Price/Licencing - Is the engine free? Is it still free for commercial use? Is a licence required to use the engine or sell games using the engine? 
 * Open Source - Is the engine open source? Open source software may have faster bug fixes/upgrades, you may even be able to request specific features. It may also be less reliably supported and updated.
+<<<<<<< HEAD
 * Game Editor - How is scripting/coding within the engine handled? Drag and drop GUI with short attached scripts or more coding? Which do you prefer?
+=======
+* Visusal/Drag'n'Drop/Scripting/Coding - How is scripting/coding within the engine handled? Drag and drop GUI with short attached scripts or more coding? Which do you prefer?
+>>>>>>> e26cd4f1542a9b5b9e37bdb9b0dc9e9848ebd324
 * Specific/Exclusive Features - are there any features you require which are not available in every engine?
 * 
 
 
 ### Unity
 
+<<<<<<< HEAD
 Having been developed since 2005, the Unity game engine has become a staple of the indie game industry.  With constant updates and new, major features, such as Unity Reflect, being added every year, the support for the engine is unbelievable.  The engine is not only well-suited for both 2D and 3D games of any type, but it is also a popular choice for virtual reality game creation and AR development as well thanks to many companies and developers creating convenient SDKs for the engine.  
 
 Beyond this, Unity also has a sizeable community, with an active Asset Store with both free and pay-to-use assets at your fingertips.  As it’s such a robust engine and free for developers earning less than $100K/year, it is a fantastic choice for beginners regardless of what they want to make.  
@@ -177,9 +188,35 @@ Overall, though, Phaser is a 2D based framework, so it may not be the best suite
 * Magikmon
 * Gems ‘n Ropes
 * Pickem’s Tiny Adventure
+=======
+### Unreal
+
+### Godot
+
+### GameMaker Studio
+
+### Blender
+
+### Cry Engine
+
+### Phaser
+
+### RPG Maker
+
+### Visual Novels
+
+* Ren'Py
+* Twine
+
+
+>>>>>>> e26cd4f1542a9b5b9e37bdb9b0dc9e9848ebd324
 
 ### Links - My Be Dated - Always check for newer information
 
 * [https://gamedevacademy.org/best-game-engines/](https://gamedevacademy.org/best-game-engines/)
 * [https://en.wikipedia.org/wiki/List_of_game_engines](https://en.wikipedia.org/wiki/List_of_game_engines)
+<<<<<<< HEAD
 * [https://en.wikipedia.org/wiki/Blender_(software)](https://en.wikipedia.org/wiki/Blender_(software))
+=======
+* 
+>>>>>>> e26cd4f1542a9b5b9e37bdb9b0dc9e9848ebd324

@@ -35,7 +35,10 @@
   - phys-2
   - phys-3
   - phys-4
-- title: 6. Which Engine?
+- title: 6. Networking
+  docs:
+  - network-1
+- title: 7. Which Engine?
   docs:
   - which-1
 - title: Assessment

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Network Overview
 permalink: /docs/network-1/
 ---
 
@@ -156,4 +156,3 @@ We need a better model to solve these problems.
 * [A curated list of game networking resources](https://github.com/ThusWroteNomad/GameNetworkingResources)
 * [Unreal Engine Networking](https://cyrextech.net/unreal-engine-networking/)
 * [Unity Networking](https://unity.com/roadmap/unity-platform/multiplayer-networking)
-* 

@@ -21,6 +21,4 @@ eMail is the primary communication method for this module. Please check your ema
 
 The best way to contact me is via [email](mailto:a.guest@yorksj.ac.uk). You can also message me through MS Teams.
 
-## Microsoft Teams
 
-MS Teams will be used for all face to face contact. Lab/tutorial session will be run as live MS Teams sessions. Please install MS Teams on your machines if you can, the web version is limited and a bit flaky.  

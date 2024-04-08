@@ -91,46 +91,12 @@ We need a better model to solve these problems.
 
 <img src="{{ "/assets/img/network/serverside.png" | relative_url }}" alt="Masking" class="img-responsive">  
 
-### Implementation
+The articles linked below give a more in depth look at these issues.  
 
-#### TCP: Transmission Control Protocol
+[https://ruoyusun.com/2019/03/28/game-networking-1.html](https://ruoyusun.com/2019/03/28/game-networking-1.html)  
 
-* Abstracts over IP
-* All packets are guaranteed to be received and in the correct order
-* Good for sending important, permanent data
-  * Connecting to server
-  * Initial game state
 
-<img src="{{ "/assets/img/network/tcp.png" | relative_url }}" alt="TCP" class="img-responsive">  
 
-#### UDP: User Datagram Protocol
-
-* A very thin shell around IP
-* Much faster than TCP, but no guarantees about reception or order
-* Good for information where only the most recent state matters
-  * Current game state
-
-<img src="{{ "/assets/img/network/udp.png" | relative_url }}" alt="UDP" class="img-responsive">  
-
-#### TCP vs UDP
-
-* (Very) generally: action games use UDP and turn-based games use TCP
-  * World state updates can be lost without worry, commands not so much
-* Can potentially combine them
-  * TCP sends one-time messages
-  * UDP streams updates
-* Best choice varies by project
-
-#### Java Sockets
-
-* Very good for most purposes
-* Read and write objects to sockets
-* UDP is deprecated for sockets
-  * Use DatagramSocket
-
-<img src="{{ "/assets/img/network/jsock.png" | relative_url }}" alt="Java Sockets" class="img-responsive">  
-
-#### Edge Cases
 
 * What if…
   * The client disconnects
@@ -154,5 +120,9 @@ We need a better model to solve these problems.
 
 * [Beginner's Guide To Game Networking](https://pvigier.github.io/2019/09/08/beginner-guide-game-networking.html)
 * [A curated list of game networking resources](https://github.com/ThusWroteNomad/GameNetworkingResources)
+* [Awesome Game Networking - Another Resource List](https://github.com/rumaniel/Awesome-Game-Networking)
+* [Game Netwroking Demystified](https://ruoyusun.com/2019/03/28/game-networking-1.html)
 * [Unreal Engine Networking](https://cyrextech.net/unreal-engine-networking/)
 * [Unity Networking](https://unity.com/roadmap/unity-platform/multiplayer-networking)
+* 
+ 

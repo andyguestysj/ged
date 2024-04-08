@@ -97,25 +97,6 @@ The articles linked below give a more in depth look at these issues.
 
 
 
-
-* What if…
-  * The client disconnects
-  * The server dies
-  * The client goes insane and send gibberish
-  * The client loses internet for 30 seconds
-  * The client is malicious
-  * The client changes IP address
-* Handling errors well is vital to the player experience
-
-**Elegant Disconnects**  
-
-* Handles and respond to IO exceptions
-  * Don’t just dump a stack trace
-* Display informative status messages
-* Send heartbeat packets every few seconds
-  * Then respond if server / client hasn’t received a heartbeat in a while
-* Never let the game continue to run in an unrecoverable state!
-
 ### Links
 
 * [Beginner's Guide To Game Networking](https://pvigier.github.io/2019/09/08/beginner-guide-game-networking.html)
